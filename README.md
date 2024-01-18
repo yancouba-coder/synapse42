@@ -1,2 +1,2 @@
 # synapse42
-Une application web développer en collaboration avec Eloïse ARTOZOUL
+Une application web développée en collaboration avec Eloïse ARTOZOUL

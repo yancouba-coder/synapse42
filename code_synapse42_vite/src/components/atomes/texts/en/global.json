@@ -1,0 +1,10 @@
+{
+    "header":{
+        "message": "Synapse 42 App en anglais"
+    },
+    "home":{
+        "body": "hello world"
+
+    }
+    
+}

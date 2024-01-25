@@ -10,6 +10,7 @@ function TestTranslate() {
             <p>{useTranslate()("header.message")}</p>
                 <Button>Hello Shadcn</Button>
             <p>{useTranslate()("home.body")}</p>
+            <p>cc</p>
         </div>
     )
 }
